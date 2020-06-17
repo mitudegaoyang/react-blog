@@ -1,3 +1,39 @@
+# react-blog
+
+[个人简介](http://gaotianyang.top/)
+
+## 可用脚本
+
+在项目目录中，可以运行：
+
+``` bash
+# 在开发模式下运行应用程序。打开http：// localhost：3000在浏览器查看它。
+yarn start
+
+# 在交互式监视模式下启动测试运行程序。
+yarn test
+
+# 生成用于生产的应用程序到`build`文件夹。
+yarn build
+```
+
+## 涵盖知识点
+
+* 不蒜子计数器
+* ECharts绘图
+* Animate.css动画
+* Lodash、moment使用
+* 节气计算及显示
+* 原生JS实现键入文字
+* ~CSS3的animation动画~
+
+## 参考资料
+
+* [React项目模板-从项目搭建到部署](https://juejin.im/post/5a8fe00f5188257a6e40452b)
+* [计数统计](https://cloud.tencent.com/developer/article/1498680)
+
+## react-app说明
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
