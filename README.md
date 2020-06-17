@@ -15,6 +15,9 @@ yarn test
 
 # 生成用于生产的应用程序到`build`文件夹。
 yarn build
+
+# 暴露配置项
+yarn eject
 ```
 
 ## 涵盖知识点
