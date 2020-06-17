@@ -33,7 +33,9 @@ yarn eject
 ## 参考资料
 
 * [React项目模板-从项目搭建到部署](https://juejin.im/post/5a8fe00f5188257a6e40452b)
+* [create-react-app + Typescript脚手架搭建](https://www.cnblogs.com/jessicaDuan/p/12955363.html)
 * [计数统计](https://cloud.tencent.com/developer/article/1498680)
+* [react-router与react-router-dom区别](https://juejin.im/post/5d4d3440f265da03925a342d)
 
 ## react-app说明
 
