@@ -34,7 +34,9 @@ yarn eject
 
 * [React项目模板-从项目搭建到部署](https://juejin.im/post/5a8fe00f5188257a6e40452b)
 * [create-react-app + Typescript脚手架搭建](https://www.cnblogs.com/jessicaDuan/p/12955363.html)
+* [重新思考Redux](https://rematch.gitbook.io/handbook/)
 * [Rematch Typescript 使用指南](https://www.dazhuanlan.com/2019/11/24/5dda170b2313d/)
+* [Rematch: Redux 的重新设计](https://segmentfault.com/a/1190000019056045)
 * [计数统计](https://cloud.tencent.com/developer/article/1498680)
 * [react-router与react-router-dom区别](https://juejin.im/post/5d4d3440f265da03925a342d)
 
